@@ -36,6 +36,12 @@ I am a **Junior Developer and Researcher in Engineering & Technology at Calango 
 - Academic projects and ideathons focused on technology at Senac PE
 - **Portuguese** (native) · **English** (intermediate)
 
+## Discord Server Configuration
+
+I create and configure Discord servers, including community structure and the integration of existing bots and tools. Two examples are [Comando Diesel](https://discord.gg/mGdkWDJ5Ms) and [Fenyx's Room](https://discord.gg/qBhYBc9g8).
+
+I am currently studying bot development to build custom Discord bots and automations in the future.
+
 ## 🕹️ Contribution Arcade
 
 <div align="center">
