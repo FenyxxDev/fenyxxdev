@@ -2,7 +2,7 @@ name: Generate Arcade Contribution Animation
 
 on:
   schedule:
-    # Executa a cada 12 horas
+    # Runs every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
