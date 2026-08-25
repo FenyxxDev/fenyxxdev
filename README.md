@@ -1,25 +1,25 @@
-<!-- BANNER DE CABEÇALHO -->
+<!-- HEADER BANNER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&text=Elmir%20Pimentel&desc=Software%20Developer%20%7C%20AI%20%26%20Systems%20Student&descSize=18&descAlign=50&descAlignY=62&stroke=-&color=0:1883ff,100:004cb3" alt="Header Banner" />
 </div>
 
 <br>
 
-<!-- SEÇÃO APRESENTAÇÃO + GIF -->
+<!-- BIO + GIF SECTION -->
 <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td align="center" valign="middle" width="30%" style="border: none;">
       <img height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVyZG5zeDN2Nnl3ZWJhejk5MHc4bDc3MmxwajVrdnpvdXR3OXRzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NNHCW11WSZbKHc5UG7/giphy.gif" alt="Shark Waving" style="border-radius: 12px;" />
     </td>
     <td align="left" valign="middle" width="70%" style="border: none; padding-left: 20px;">
-      <h2>👋 Olá, mundo! Eu sou o Elmir (FenyxDev)</h2>
+      <h2>👋 Hello World! I'm Elmir (fenyxxdev)</h2>
       <p>
-        🎓 Graduando em <b>Análise e Desenvolvimento de Sistemas</b> (Senac PE)<br>
-        🚀 Residente Tecnológico no <b>Porto Digital</b><br>
-        🤖 Estudando Desenvolvimento de Agentes Autônomos de IA, Cibersegurança & Desenvolvimento Web<br>
-        💡 Apaixonado por tecnologia, games e resolução de problemas práticos.
+        🎓 Pursuing a Degree in <b>Systems Analysis and Development</b> (Senac PE)<br>
+        🚀 Tech Resident at <b>Porto Digital</b><br>
+        🤖 Studying Autonomous AI Agents Development, Cybersecurity & Web Development<br>
+        💡 Passionate about technology, gaming, and practical problem-solving.
       </p>
-      <!-- REDES SOCIAIS E CONTATO -->
+      <!-- SOCIALS AND CONTACT -->
       <div>
         <a href="https://www.linkedin.com/in/elmir-pimentel-890525370/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -39,15 +39,15 @@
 <hr style="border: 0.5px solid #1883ff;">
 <br>
 
-<!-- ANIMAÇÃO ARCADE (GALAGA) -->
+<!-- ARCADE ANIMATION (GALAGA) -->
 <div align="center">
   <h2>🕹️ Contribution Arcade Zone</h2>
-  <p>Grafico interativo de contribuição estilizado no tema Galaga</p>
+  <p>Interactive contribution graph stylized in Galaga theme</p>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FenyxDev/FenyxDev/pacman-output/galaga-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FenyxDev/FenyxDev/pacman-output/galaga.svg">
-    <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/FenyxDev/FenyxDev/pacman-output/galaga.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fenyxxdev/fenyxxdev/pacman-output/galaga-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fenyxxdev/fenyxxdev/pacman-output/galaga.svg">
+    <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/fenyxxdev/fenyxxdev/pacman-output/galaga.svg" width="100%">
   </picture>
 </div>
 
@@ -55,17 +55,17 @@
 <hr style="border: 0.5px solid #1883ff;">
 <br>
 
-<!-- ESTATÍSTICAS DO GITHUB -->
+<!-- GITHUB STATS -->
 <div align="center">
-  <h2>📊 Estatísticas e Atividade</h2>
+  <h2>📊 GitHub Stats & Activity</h2>
   <br>
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
       <td style="border: none;" align="center">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=FenyxDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+        <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fenyxxdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td style="border: none;" align="center">
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenyxDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
+        <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fenyxxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
@@ -75,14 +75,22 @@
 <hr style="border: 0.5px solid #1883ff;">
 <br>
 
-<!-- HARD SKILLS & TECNOLOGIAS -->
+<!-- TECH STACK & TOOLS -->
 <div align="center">
-  <h2>🛠️ Tecnologias & Ferramentas</h2>
+  <h2>🛠️ Tech Stack & Tools</h2>
   <br>
-  <img src="https://skinny-skunk.static.domains/shields?Linguagens=python,javascript,c,lua,mysql&Web=react,tailwindcss,css3,figma&DevOps_Tools=docker,github,vscode&style=for-the-badge" alt="Tech Stack" />
-  <br><br>
-
-  <!-- ICONES COMPLEMENTARES -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+    <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </p>
+  <br>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
     &nbsp;
@@ -106,7 +114,7 @@
 
 <br>
 
-<!-- RODAPÉ DA PÁGINA -->
+<!-- FOOTER BANNER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&stroke=-&color=0:1883ff,100:004cb3" alt="Footer Banner" />
 </div>
