@@ -2,8 +2,8 @@
 <div align="center">
   <img height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVyZG5zeDN2Nnl3ZWJhejk5MHc4bDc3MmxwajVrdnpvdXR3OXRzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NNHCW11WSZbKHc5UG7/giphy.gif" alt="Animated shark waving" />
   <h1>Hi, I'm Elmir Pimentel</h1>
-  <p><strong>Software Developer · AI & Systems Analysis Student</strong></p>
-  <p>Building practical solutions with code, automation and curiosity.</p>
+  <p><strong>Junior Developer · Researcher in Engineering & Technology</strong></p>
+  <p>Building practical solutions through software, automation and technology development.</p>
   <p>
     <a href="https://www.linkedin.com/in/elmir-pimentel-890525370/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,13 +21,20 @@
 
 ## About me
 
-I am pursuing a degree in **Systems Analysis and Development at Senac PE** and working as a **Tech Resident at Porto Digital**. I enjoy turning ideas into practical projects while continuously learning about software development, autonomous AI agents and cybersecurity.
+I am a **Junior Developer and Researcher in Engineering & Technology at Calango Meio Ambiente e Tecnologia**, working in the **Technology Development** team. Alongside my professional experience, I am pursuing a degree in **Systems Analysis and Development at Faculdade Senac PE** and participating in the **RISEUP-SENAC-M1 Technology Residency at Porto Digital** through my degree at Senac PE. I enjoy turning ideas into practical projects while continuously learning about software development, autonomous AI agents and cybersecurity.
 
 ## Current focus
 
-- Autonomous AI agents and applied automation
-- Cybersecurity and responsible experimentation
-- Web development and practical problem-solving
+- Technology development for environmental applications
+- Autonomous AI agents, applied automation and cybersecurity
+- Web development, databases and practical problem-solving
+
+## Highlights
+
+- Cisco Networking Academy training in **Endpoint Security** and **Network Defense**
+- Participant in the **Networking Academy Learn-Athon** (2024–2025)
+- Academic projects and ideathons focused on technology at Senac PE
+- **Portuguese** (native) · **English** (intermediate)
 
 ## 🕹️ Contribution Arcade
 
@@ -62,12 +69,18 @@ I am pursuing a degree in **Systems Analysis and Development at Senac PE** and w
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
+<p><strong>Databases</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
 <p><strong>Frameworks & Tools</strong></p>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
