@@ -1,4 +1,5 @@
 <!-- HEADER BANNER -->
+
 <div align="center">
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&text=Elmir%20Pimentel&desc=Software%20Developer%20%7C%20AI%20%26%20Systems%20Student&descSize=18&descAlign=50&descAlignY=62&stroke=-&color=0:1883ff,100:004cb3" alt="Header Banner" />
 </div>
@@ -62,10 +63,10 @@
  <table border="0" style="border-collapse: collapse; border: none;">
  <tr style="border: none;">
  <td style="border: none;" align="center">
- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fenyxxdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+ <img height="165" src="https://github-stats-extended.vercel.app/api?username=fenyxxdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
  </td>
  <td style="border: none;" align="center">
- <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fenyxxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+ <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fenyxxdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
  </td>
  </tr>
  </table>
