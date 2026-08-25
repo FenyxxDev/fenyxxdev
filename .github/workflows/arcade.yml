@@ -1,11 +1,10 @@
-name: Generate arcade animation
+name: Generate Arcade Contribution Animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    # Executa a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -18,13 +17,16 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Galaga Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'galaga'
 
-      - name: push galaga-contribution-graph.svg to the output branch
+      - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
