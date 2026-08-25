@@ -1,10 +1,3 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&text=Elmir%20Pimentel&desc=Software%20Developer%20%7C%20AI%20%26%20Systems%20Student&descSize=18&descAlign=50&descAlignY=62&stroke=-&color=0:1883ff,100:004cb3" alt="Header banner" />
-</div>
-
-<br />
-
 <!-- INTRODUCTION -->
 <div align="center">
   <img height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVyZG5zeDN2Nnl3ZWJhejk5MHc4bDc3MmxwajVrdnpvdXR3OXRzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NNHCW11WSZbKHc5UG7/giphy.gif" alt="Animated shark waving" />
@@ -88,7 +81,6 @@ Explore my [repositories](https://github.com/fenyxxdev?tab=repositories). Some o
 
 <br />
 
-<!-- FOOTER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&stroke=-&color=0:1883ff,100:004cb3" alt="Footer banner" />
+  <sub>Thanks for visiting my profile.</sub>
 </div>
